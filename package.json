@@ -1,0 +1,21 @@
+{
+    "name": "raskell",
+    "displayName": "raskell",
+    "description": "A theme for Haskell",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Raskell",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Raskell-color-theme.json"
+            }
+        ]
+    }
+}
