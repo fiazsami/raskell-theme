@@ -1,8 +1,10 @@
 {
+    "publisher": "FiazSami",
     "name": "raskell",
     "displayName": "raskell",
     "description": "A theme for Haskell",
     "version": "0.0.1",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.68.0"
     },
@@ -17,5 +19,9 @@
                 "path": "./themes/Raskell-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fiazsami/raskell-theme"
     }
 }
